@@ -1,0 +1,1 @@
+orange = 10p apple = 20p bread = £1.10 tomato = 25p cereal = £2.34

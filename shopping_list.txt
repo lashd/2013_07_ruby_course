@@ -1,0 +1,10 @@
+list
+orange
+apple
+apple
+orange
+tomato
+cereal
+bread
+orange
+tomato
